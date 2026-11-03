@@ -1,14 +1,14 @@
-# Wenzhou Jingji Trading Co., Ltd.
+# Huzhou Xusheng Technology Co., Ltd.
 
 An English-language, responsive storefront for US customers. **Double-click `index.html` to open the website directly in a browser.** The direct-open version uses HTML, CSS, and JavaScript. React/TypeScript source files are also included for future development.
 
 ## Company information
 
-- **Company:** Wenzhou Jingji Trading Co., Ltd.
-- **Contact:** Zhang Jian
-- **Email:** [JINJI231@163.com](mailto:JINJI231@163.com)
-- **Phone:** [+86 150 5797 5717](tel:+8615057975717)
-- **Address:** 5th Floor, No. 18 Lingjiang Road, Longwan District, Wenzhou City
+- **Company:** Huzhou Xusheng Technology Co., Ltd.
+- **Contact:** Chen Linan
+- **Email:** [Xusheng12312@163.com](mailto:Xusheng12312@163.com)
+- **Phone:** [+86 133 2579 3327](tel:+8613325793327)
+- **Address:** No. 389-413, Taihu Road, West District, Ganghu Garden, Fenghuang Street, Huzhou City, Zhejiang Province
 
 ## Features
 
@@ -36,7 +36,7 @@ Build the static site with `npm run build`. Vite writes the deployable files to 
 
 The direct-open site uses local sample apparel photos in `images/`. It works without an internet connection. Replace any photo with your own file and update its path in the `products` array in `store.js`. The hero photo path is in `index.html`.
 
-Sample photos illustrate clothing categories; they are **not photos of Jingji inventory**. Product names, prices, descriptions, fabric details, and availability must be confirmed before presenting them as real goods. The images were downloaded from Pexels under its [free-use license](https://www.pexels.com/license/). Photo source pages, in product order:
+Sample photos illustrate clothing categories; they are **not photos of Xusheng inventory**. Product names, prices, descriptions, fabric details, and availability must be confirmed before presenting them as real goods. The images were downloaded from Pexels under its [free-use license](https://www.pexels.com/license/). Photo source pages, in product order:
 
 - [Beige Knit Cardigan](https://www.pexels.com/photo/back-view-of-person-wearing-beige-knitted-cardigan-9311992/)
 - [Classic Denim Jacket](https://www.pexels.com/photo/man-wearing-denim-jacket-17896486/)
